@@ -1,0 +1,15 @@
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\bin\Debug\giaodien.exe.config
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\bin\Debug\giaodien.exe
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\bin\Debug\giaodien.pdb
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form1.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form_loaisp.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.csproj.GenerateResource.Cache
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.exe
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.pdb
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form_nhacungcap.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form_nhakho.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form_nhapkho.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form_tonkho.resources
+C:\Users\Hoang Bao\Downloads\final_prototype\final_prototype\giaodien\obj\Debug\giaodien.Form_xuatkho.resources
